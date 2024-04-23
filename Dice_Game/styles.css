@@ -1,0 +1,46 @@
+body {
+  background-color: #38393b;
+}
+
+div {
+  display: flex;
+  justify-content: space-evenly;
+}
+img {
+  width: 300px;
+  border-radius: 50px;
+  box-shadow: 0 0 10px;
+}
+
+.dp {
+  display: block;
+}
+
+h1 {
+  color: white;
+  margin-left: 20%;
+}
+
+button {
+  position: relative;
+  left: 47%;
+  margin-top: 5%;
+  padding: 15px;
+  border-radius: 100px;
+  color: white;
+  background-color: rgb(223, 22, 22);
+}
+
+button:hover {
+  background-color: rgb(135, 8, 8);
+}
+
+.copy {
+  color: #c7c8cc;
+  margin-left: 25%;
+  margin-top: 10%;
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 3em;
+}
